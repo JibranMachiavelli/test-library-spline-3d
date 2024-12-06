@@ -5,7 +5,7 @@ export default function Home() {
   return (
     <>
       <main className={`${styles.main}`}>
-      <Spline scene="https://prod.spline.design/u5CaaMXLphNu2yot/scene.splinecode" />
+        <Spline scene="https://prod.spline.design/u5CaaMXLphNu2yot/scene.splinecode" />
       </main>
     </>
   );
